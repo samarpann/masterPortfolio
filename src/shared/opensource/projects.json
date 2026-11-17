@@ -1,86 +1,182 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "proj-swastik-jewels",
+      "name": "Swastik Jewels",
+      "createdAt": "2026-05-01T00:00:00Z",
+      "url": "https://www.swastikjewel.in/",
+      "description": "Luxury fine gold and natural diamond jewellery storefront presenting products, curated collections, and an exquisite digital shopping experience.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React.js",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "simple-icons:tailwindcss"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "proj-swastik-crm",
+      "name": "Swastik CRM",
+      "createdAt": "2026-05-10T00:00:00Z",
+      "url": "https://crm.swastikjewel.in/",
+      "description": "Enterprise gold shop management ERP dashboard supporting customer records, real-time bullion rates, inventory tracking, and workflows.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Express.js",
+          "iconifyClass": "simple-icons:express"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "proj-sanki",
+      "name": "SANKI",
+      "createdAt": "2026-04-15T00:00:00Z",
+      "url": "https://sanki.online/",
+      "description": "Contemporary streetwear apparel brand with limited drops, custom fit guides, and a seamless mobile-first checkout experience.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "React.js",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Next.js",
+          "iconifyClass": "simple-icons:nextdotjs"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "simple-icons:tailwindcss"
+        }
+      ]
+    },
+    {
+      "id": "proj-garvik-india",
+      "name": "Garvik India",
+      "createdAt": "2026-03-20T00:00:00Z",
+      "url": "https://www.garvikindia.com/",
+      "description": "360° strategic marketing, advertising, and creative branding agency platform driving corporate visibility and lead generation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "simple-icons:tailwindcss"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "proj-rk-steel",
+      "name": "RK Steel Company",
+      "createdAt": "2026-03-01T00:00:00Z",
+      "url": "https://www.rksteelcompany.in/",
+      "description": "High-performance corporate website for an industrial steel manufacturer, showcasing products, manufacturing capacities, and customer inquiries.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "CSS3",
+          "iconifyClass": "fa-css3"
+        }
+      ]
+    },
+    {
+      "id": "proj-fundsphere",
+      "name": "FundSphere",
+      "createdAt": "2026-02-15T00:00:00Z",
+      "url": "https://www.fundsphere.co.in/",
+      "description": "Modern financial services and wealth management platform delivering clean interfaces, financial resources, and digital tools.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Tailwind CSS",
+          "iconifyClass": "simple-icons:tailwindcss"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "proj-dr-nidan",
+      "name": "Dr. Nidan",
+      "createdAt": "2026-01-20T00:00:00Z",
+      "url": "https://www.drnidan.in/",
+      "description": "Healthcare-focused web platform providing comprehensive medical brand information, specialty clinic services, and patient consultations.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "React.js",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "HTML5",
+          "iconifyClass": "simple-icons:html5"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Tailwind CSS",
+          "iconifyClass": "simple-icons:tailwindcss"
+        }
+      ]
+    },
+    {
+      "id": "proj-sauriksha-villa",
+      "name": "Sauriksha Villa",
+      "createdAt": "2025-12-10T00:00:00Z",
+      "url": "https://www.saurikshavilla.com/index.html",
+      "description": "Scenic boutique mountain villa and resort near Nainital/Bhimtal featuring direct room bookings and bespoke guest hospitality.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML5",
+          "iconifyClass": "simple-icons:html5"
+        },
+        {
+          "name": "CSS3",
+          "iconifyClass": "fa-css3"
         },
         {
           "name": "JavaScript",
@@ -89,25 +185,11 @@
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "proj-grilli",
+      "name": "Grilli Restaurant",
+      "createdAt": "2025-11-05T00:00:00Z",
+      "url": "https://6919d520872fbc7a96a26a0a--mellow-lokum-5f3443.netlify.app/",
+      "description": "Exquisite culinary dining experience featuring interactive menus, chef specials, and direct online table reservation engine.",
       "isFork": false,
       "languages": [
         {
@@ -115,8 +197,12 @@
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "CSS3",
+          "iconifyClass": "fa-css3"
+        },
+        {
+          "name": "HTML5",
+          "iconifyClass": "simple-icons:html5"
         }
       ]
     }

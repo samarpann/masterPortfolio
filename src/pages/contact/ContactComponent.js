@@ -69,9 +69,9 @@ class Contact extends Component {
                 </p>
                 <div className="blogsite-btn-div">
                   <Button
-                    text="Visit My Blogsite"
+                    text="Chat on WhatsApp"
                     newTab={true}
-                    href={blogSection.link}
+                    href={blogSection.link || "https://wa.me/918178557544"}
                     theme={theme}
                   />
                 </div>

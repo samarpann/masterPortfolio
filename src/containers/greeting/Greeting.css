@@ -93,3 +93,112 @@
     justify-content: center;
   }
 }
+
+/* Enhanced Stats and Action Buttons */
+.greeting-stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 24px 0 20px 0;
+}
+
+.greeting-stat-card {
+  padding: 10px 18px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  min-width: 120px;
+  transition: transform 0.2s ease;
+}
+
+.greeting-stat-card:hover {
+  transform: translateY(-2px);
+}
+
+.greeting-stat-val {
+  font-size: 22px;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.greeting-stat-lbl {
+  font-size: 12px;
+  font-weight: 500;
+  opacity: 0.85;
+  margin-top: 2px;
+}
+
+.greeting-actions-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 24px 0 20px 0;
+}
+
+.greeting-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 14px rgba(2, 132, 199, 0.25);
+}
+
+.greeting-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(2, 132, 199, 0.35);
+}
+
+.greeting-btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 22px;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  transition: all 0.25s ease;
+}
+
+.greeting-btn-secondary:hover {
+  transform: translateY(-2px);
+}
+
+.greeting-btn-whatsapp {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 22px;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-size: 14px;
+  background-color: #25d366;
+  color: #ffffff !important;
+  text-decoration: none;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 14px rgba(37, 211, 102, 0.25);
+}
+
+.greeting-btn-whatsapp:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);
+}
+
+@media (max-width: 768px) {
+  .greeting-stats-row {
+    justify-content: center;
+  }
+  .greeting-stat-card {
+    min-width: 40%;
+    text-align: center;
+  }
+  .greeting-actions-row {
+    justify-content: center;
+  }
+}
